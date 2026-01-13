@@ -1,8 +1,9 @@
 # Language-Translation-System
-LANGUAGE TRANSLATION SYSTEM – Miscommunication Shield Business Translator
-A next-gen business language translation system that prevents cultural miscommunication.
+#**LANGUAGE TRANSLATION SYSTEM – Miscommunication Shield Business Translator**
 
-## Features
+**A next-gen business language translation system that prevents cultural miscommunication.**
+
+## **Features**
 - Meaning + emotion preserving translation
 - Cultural safety rewrite
 - Miscommunication risk score
@@ -10,12 +11,12 @@ A next-gen business language translation system that prevents cultural miscommun
 - Business action suggestion
 - Live meeting voice translation mode
 
-## Tech Used
+## **Tech Used**
 - OpenAI LLM API
 - Gradio UI
 - No dataset or training used – inference based
 
-## Run Locally
+## **Run Locally**
 1. Clone repo
 2. Install dependencies
 3. Run notebook top-to-bottom
