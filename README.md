@@ -43,12 +43,12 @@ alternative timelines that better align with our capacity."
 
 ```bash
 # Clone and install
-git clone https://github.com/yourusername/miscommunication-shield.git
-cd miscommunication-shield
+git clone https://github.com/keerthipothireddy0609/Language-Translation-System.git
+cd Language-Translation-System
 pip install openai gradio pandas numpy
 
 # Run notebook
-jupyter notebook miscommunication_shield.ipynb
+jupyter notebook Miscommunication_Shield.ipynb
 ```
 
 **Run all cells top-to-bottom** - outputs generate automatically!
@@ -101,8 +101,8 @@ Output: Risk warnings + Safe translation
 ## 📁 Project Structure
 
 ```
-miscommunication-shield/
-├── miscommunication_shield.ipynb    # Main notebook (all code)
+Language-Translation-System/
+├── Miscommunication_Shield.ipynb    # Main notebook (all code)
 ├── README.md                         # This file
 └── requirements.txt                  # Dependencies
 ```
@@ -142,7 +142,7 @@ miscommunication-shield/
 
 ## 👤 Author
 
-**[KEERTHI POTHIREDDY]** - IIT Ropar AI Minor 2024-26
+**[KEERTHI POTHIREDDY]** - IIT Ropar Minor in AI Course 2024-26
 
 📧 keerthipothireddy0609@gmail.com
 ---
